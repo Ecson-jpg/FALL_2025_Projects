@@ -1,6 +1,7 @@
 //
-//  main.c
-//  final project simplified
+//
+//    Final project simplified
+//    School Data Base
 //
 //      Name of Students:
 //
